@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+}
+
+.container {
+  max-width: 700px;
+  margin: auto;
+  padding: 2rem;
+}
+
+.btn {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  border: 1px solid black;
+  margin: 0 0.5rem;
+}
+
+.box {
+  background: #ddd;
+  padding: 1rem;
+  border: 1px solid black;
+  border-radius: 0.5rem;
+}
+
+.box li {
+  list-style: none;
+}
