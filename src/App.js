@@ -11,6 +11,10 @@ function App() {
       {
         name: "Batman: Arkham City",
         rating: "9.4/10"
+      },
+      {
+        name: "Assassin’s Creed IV: Black Flag",
+        rating: "8.7/10"
       }
     ],
     Adventure: [
@@ -21,6 +25,10 @@ function App() {
       {
         name: "Red Dead Redemption 2",
         rating: "9.7/10"
+      },
+      {
+        name: "Spider-Man",
+        rating: "9.2/10"
       }
     ],
     Survival: [
@@ -31,6 +39,10 @@ function App() {
       {
         name: "ARK: Survival Evolved",
         rating: "6.9/10"
+      },
+      {
+        name: "Subnautica",
+        rating: "8.4/10"
       }
     ]
   };
