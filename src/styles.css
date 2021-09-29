@@ -25,3 +25,13 @@
 .box li {
   list-style: none;
 }
+
+.small-font {
+  font-size: 0.8rem;
+  margin-top: 0.5rem;
+}
+
+.rating {
+  color: #b38f00;
+  margin-top: 0.5rem;
+}
