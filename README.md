@@ -1,2 +1,2 @@
 # neog.camp_game-recommander
-Created with CodeSandbox
+ReactJS app that recommend game based on genre of games.
